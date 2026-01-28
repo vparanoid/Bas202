@@ -18,3 +18,8 @@ BAS-2026
 6. Prokopovich Denis
 
 7. Maz
+
+f = open(«crash-1.txt», «wb») 
+   buf = b «A» * 1000 
+   f.write(buf) 
+f.close()
