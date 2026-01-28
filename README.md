@@ -1,4 +1,4 @@
-# Bas202
+
 bas2026
 
 Богомаз Виктор
@@ -6,7 +6,7 @@ bas2026
 <<<<<<< HEAD
 Strelchenko Aleksey 22
 Ksenofontov Anton 
-=======
+
 Strelchenko Aleksey BAS202
 
 Ksenofontov Anton
