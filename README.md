@@ -1,14 +1,14 @@
 
 bas2026
 
-Богомаз Виктор
+---
 
-Strelchenko Aleksey 22
-Ksenofontov Anton 
+1. Богомаз Виктор
 
-Strelchenko Aleksey BAS202
+2. Strelchenko Aleksey 22
 
-Ksenofontov Anton
+3. Ksenofontov Anton 
 
-test
+4. Ksenofontov Anton
 
+5. Nizhankovsky Artem
