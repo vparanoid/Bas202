@@ -2,5 +2,5 @@
 bas2026
 Богомаз Виктор
 
-Strelchenko Aleksey BAS202
-Ksenofontov Anton
+Strelchenko Aleksey 2
+Ksenofontov Anton 
