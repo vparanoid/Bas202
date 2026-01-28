@@ -1,5 +1,6 @@
 
 bas2026
+---
 
 1. Богомаз Виктор
 
@@ -7,6 +8,4 @@ bas2026
 
 3. Ksenofontov Anton 
 
-4. Strelchenko Aleksey BAS202
-
-5. Ksenofontov Anton
+4. Ksenofontov Anton
