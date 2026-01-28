@@ -5,7 +5,7 @@
 
 1. Богомаз Виктор
 
-2. Strelchenko Aleksey 22
+2. Strelchenko Aleksey
 
 3. Ksenofontov Anton 
 
