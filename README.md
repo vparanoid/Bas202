@@ -12,3 +12,5 @@ bas2026
 4. Ksenofontov Anton
 
 5. Nizhankovsky Artem
+
+6. Zakolodkin Egor
