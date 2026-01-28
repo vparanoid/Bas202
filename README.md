@@ -1,5 +1,4 @@
-
-<center>bas2026</center>
+bas2026
 
 ---
 
